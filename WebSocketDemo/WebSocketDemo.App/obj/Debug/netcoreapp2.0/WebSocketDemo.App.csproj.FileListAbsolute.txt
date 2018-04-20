@@ -1,0 +1,11 @@
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.App\bin\Debug\netcoreapp2.0\WebSocketDemo.App.deps.json
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.App\bin\Debug\netcoreapp2.0\WebSocketDemo.App.runtimeconfig.json
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.App\bin\Debug\netcoreapp2.0\WebSocketDemo.App.runtimeconfig.dev.json
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.App\bin\Debug\netcoreapp2.0\WebSocketDemo.App.dll
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.App\bin\Debug\netcoreapp2.0\WebSocketDemo.App.pdb
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.App\obj\Debug\netcoreapp2.0\WebSocketDemo.App.csprojResolveAssemblyReference.cache
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.App\obj\Debug\netcoreapp2.0\WebSocketDemo.App.csproj.CoreCompileInputs.cache
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.App\obj\Debug\netcoreapp2.0\WebSocketDemo.App.AssemblyInfoInputs.cache
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.App\obj\Debug\netcoreapp2.0\WebSocketDemo.App.AssemblyInfo.cs
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.App\obj\Debug\netcoreapp2.0\WebSocketDemo.App.dll
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.App\obj\Debug\netcoreapp2.0\WebSocketDemo.App.pdb

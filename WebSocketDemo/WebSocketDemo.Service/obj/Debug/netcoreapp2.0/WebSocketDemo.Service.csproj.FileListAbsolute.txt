@@ -1,0 +1,10 @@
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.Service\bin\Debug\netcoreapp2.0\WebSocketDemo.Service.deps.json
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.Service\bin\Debug\netcoreapp2.0\WebSocketDemo.Service.runtimeconfig.json
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.Service\bin\Debug\netcoreapp2.0\WebSocketDemo.Service.runtimeconfig.dev.json
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.Service\bin\Debug\netcoreapp2.0\WebSocketDemo.Service.dll
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.Service\bin\Debug\netcoreapp2.0\WebSocketDemo.Service.pdb
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.Service\obj\Debug\netcoreapp2.0\WebSocketDemo.Service.csproj.CoreCompileInputs.cache
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.Service\obj\Debug\netcoreapp2.0\WebSocketDemo.Service.AssemblyInfoInputs.cache
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.Service\obj\Debug\netcoreapp2.0\WebSocketDemo.Service.AssemblyInfo.cs
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.Service\obj\Debug\netcoreapp2.0\WebSocketDemo.Service.dll
+C:\Codebase\WebSocketDemo\WebSocketDemo\WebSocketDemo.Service\obj\Debug\netcoreapp2.0\WebSocketDemo.Service.pdb
